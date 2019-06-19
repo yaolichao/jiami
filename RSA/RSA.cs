@@ -64,5 +64,9 @@ namespace RSA
             string privateStr = Encoding.UTF8.GetString(privateValue);
             return privateStr;
         }
+        private void test()
+        {
+
+        }
     }
 }
